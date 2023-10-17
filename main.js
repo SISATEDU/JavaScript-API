@@ -6,4 +6,4 @@ console.log("IT")
 /* ส่วนนี้คือ ให้พิมพ์ ชื่อวิทยาลัยฯ */
 console.log("วิทยาลัยเทคนิคศรีสะเกษ")
 /* ชื่อหนังที่ชอบ */
-console.log("Iron man3")
+console.log("narcos")
