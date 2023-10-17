@@ -7,3 +7,4 @@ console.log("IT")
 console.log("วิทยาลัยเทคนิคศรีสะเกษ")
 /* ชื่อหนังที่ชอบ */
 console.log("narcos")
+console.log("SAMSUNG")
