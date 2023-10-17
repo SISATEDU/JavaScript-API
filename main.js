@@ -4,7 +4,7 @@ console.log("Hello World!")
 console.log("สารสนเทศ")
 console.log("IT")
 /* ส่วนนี้คือ ให้พิมพ์ ชื่อวิทยาลัยฯ */
-console.log("วิทยาลัยเทคนิคศรีสะเกษ")
+console.log("วิทยาลัยเทคนิคศรีสะเเกษ")
 /* ชื่อหนังที่ชอบ */
 console.log("narcos")
 console.log("SAMSUNG")
